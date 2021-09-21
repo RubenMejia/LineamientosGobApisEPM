@@ -1,0 +1,13 @@
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\bin\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.deps.json
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\bin\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.dll
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\bin\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.pdb
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\bin\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.dll
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\bin\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.pdb
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.csproj.AssemblyReference.cache
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.AssemblyInfoInputs.cache
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.AssemblyInfo.cs
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.csproj.CopyComplete
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.dll
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Application\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Application.pdb

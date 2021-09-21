@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmjmO6fsXAs+gwbFWBeBT2NdopFkajpr9IXcm85JEWe415Ji2O92HY860id1Ly7wTreEmcx3U/oEsV5rKJkDhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvaro.escobar\\source\\repos\\LineamientosGobApisEPM\\Application\\LineamientosGobApisEPM.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6G22lykk9ybaDaWOIEb4rWtaIjhc8qy75cdEIucaYAZP7LXLP/ouG5WcSI87yH1/uiaWVZF0/7d8DvAp0RQaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvaro.escobar\\source\\repos\\LineamientosGobApisEPM\\LineamientosGobApisEPM\\LineamientosGobApisEPM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.1\\swashbuckle.aspnetcore.6.2.1.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.1\\swashbuckle.aspnetcore.swaggerui.6.2.1.nupkg.sha512",
+    "C:\\Users\\alvaro.escobar\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

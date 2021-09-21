@@ -1,0 +1,10 @@
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\bin\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.deps.json
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\bin\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.dll
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\bin\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.pdb
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.csproj.AssemblyReference.cache
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.AssemblyInfoInputs.cache
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.AssemblyInfo.cs
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.dll
+C:\Users\alvaro.escobar\source\repos\LineamientosGobApisEPM\Domain\obj\Debug\netcoreapp3.1\LineamientosGobApisEPM.Domain.pdb
